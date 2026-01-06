@@ -1,6 +1,6 @@
 # Azure Custom Vision Export
 
-<img src="logo.png" width=300>
+<img src="image.jpg">
 
 Export and automate the download of images and tags from Microsoft Azure Custom Vision projects. 
 Easily migrate or back up your labeled datasets for training, analysis, or integration with other machine learning platforms.
