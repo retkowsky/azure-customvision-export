@@ -12,6 +12,13 @@ Easily migrate or back up your labeled datasets for training, analysis, or integ
 ## Usage
 You’ll need your Azure Custom Vision endpoint, project ID, and training key. 
 
+## 📓 Notebooks
+
+| Type | Description | Link |
+|------|-------------|------|
+| 🏷️ Image Classification | Export images and labels from an Azure Custom Vision classification project | [Open Notebook](https://github.com/retkowsky/azure-customvision-export/blob/main/Image%20classification%20project%20export.ipynb) |
+| 🎯 Object Detection | Export images and bounding boxes from an Azure Custom Vision object detection project | [Open Notebook](https://github.com/retkowsky/azure-customvision-export/blob/main/Object%20detection%20project%20export.ipynb) |
+
 ## 📚 Documentation
 - https://azure.microsoft.com/en-us/products/ai-services/ai-custom-vision
 - https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/
