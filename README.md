@@ -11,7 +11,6 @@ Easily migrate or back up your labeled datasets for training, analysis, or integ
 
 ## Usage
 You’ll need your Azure Custom Vision endpoint, project ID, and training key. 
-ENDPOINT="https://<your-region>.api.cognitive.microsoft.com"
-TRAINING_KEY="your_training_key"
-PROJECT_ID="your_project_id"
+
+
 
